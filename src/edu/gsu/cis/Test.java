@@ -7,7 +7,11 @@ public class Test {
 	// Another
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		System.out.println("Hello Java");
+=======
+
+>>>>>>> branch 'master' of https://github.com/aakhlaghi/TestGit
 	}
 
 }
