@@ -11,5 +11,9 @@ public class Test {
 		System.out.println("HEllo1233");
 
 	}
+	
+	public static void method1() {
+		
+	}
 
 }
