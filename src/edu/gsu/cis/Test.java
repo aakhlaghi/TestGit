@@ -7,7 +7,7 @@ public class Test {
 	// Another
 	public static void main(String[] args) {
 
-		System.out.println("Hello Python");
+		System.out.println("Hello JAva1234");
 		System.out.println("HEllo");
 
 	}
