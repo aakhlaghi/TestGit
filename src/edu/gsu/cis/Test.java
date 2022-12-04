@@ -10,7 +10,7 @@ public class Test {
 		System.out.println("Hello JAva1234");
 		System.out.println("HEllo");
 		System.out.println("HEllo123");
-		System.out.println("HEllo123ccc");
+		System.out.println("XXXX");
 
 	}
 	
